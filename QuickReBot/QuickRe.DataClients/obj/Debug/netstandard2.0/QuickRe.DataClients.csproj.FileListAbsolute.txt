@@ -1,0 +1,18 @@
+C:\Work\Projects\QuickReBot\QuickRe.DataClients\bin\Debug\netstandard2.0\QuickRe.DataClients.deps.json
+C:\Work\Projects\QuickReBot\QuickRe.DataClients\bin\Debug\netstandard2.0\QuickRe.DataClients.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients\bin\Debug\netstandard2.0\QuickRe.DataClients.pdb
+C:\Work\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.csprojAssemblyReference.cache
+C:\Work\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.csproj.CoreCompileInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.AssemblyInfoInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.AssemblyInfo.cs
+C:\Work\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients\bin\Debug\netstandard2.0\QuickRe.DataClients.deps.json
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients\bin\Debug\netstandard2.0\QuickRe.DataClients.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients\bin\Debug\netstandard2.0\QuickRe.DataClients.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.csprojAssemblyReference.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.csproj.CoreCompileInputs.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.AssemblyInfoInputs.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.AssemblyInfo.cs
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients\obj\Debug\netstandard2.0\QuickRe.DataClients.pdb

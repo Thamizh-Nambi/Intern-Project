@@ -1,0 +1,22 @@
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\bin\Debug\netcoreapp2.0\QuickRe.Search.API.deps.json
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\bin\Debug\netcoreapp2.0\QuickRe.Search.API.runtimeconfig.json
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\bin\Debug\netcoreapp2.0\QuickRe.Search.API.runtimeconfig.dev.json
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\bin\Debug\netcoreapp2.0\QuickRe.Search.API.dll
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\bin\Debug\netcoreapp2.0\QuickRe.Search.API.pdb
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.csprojAssemblyReference.cache
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.csproj.CoreCompileInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.AssemblyInfoInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.AssemblyInfo.cs
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.dll
+C:\Work\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\bin\Debug\netcoreapp2.0\QuickRe.Search.API.deps.json
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\bin\Debug\netcoreapp2.0\QuickRe.Search.API.runtimeconfig.json
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\bin\Debug\netcoreapp2.0\QuickRe.Search.API.runtimeconfig.dev.json
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\bin\Debug\netcoreapp2.0\QuickRe.Search.API.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\bin\Debug\netcoreapp2.0\QuickRe.Search.API.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.csprojAssemblyReference.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.csproj.CoreCompileInputs.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.AssemblyInfoInputs.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.AssemblyInfo.cs
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Search.API\obj\Debug\netcoreapp2.0\QuickRe.Search.API.pdb

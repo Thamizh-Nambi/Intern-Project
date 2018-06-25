@@ -1,0 +1,9 @@
+C:\Work\Projects\QuickReBot\QuickRe.AzureSearch\bin\Debug\netstandard2.0\QuickRe.AzureSearch.deps.json
+C:\Work\Projects\QuickReBot\QuickRe.AzureSearch\bin\Debug\netstandard2.0\QuickRe.AzureSearch.dll
+C:\Work\Projects\QuickReBot\QuickRe.AzureSearch\bin\Debug\netstandard2.0\QuickRe.AzureSearch.pdb
+C:\Work\Projects\QuickReBot\QuickRe.AzureSearch\obj\Debug\netstandard2.0\QuickRe.AzureSearch.csprojAssemblyReference.cache
+C:\Work\Projects\QuickReBot\QuickRe.AzureSearch\obj\Debug\netstandard2.0\QuickRe.AzureSearch.csproj.CoreCompileInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.AzureSearch\obj\Debug\netstandard2.0\QuickRe.AzureSearch.AssemblyInfoInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.AzureSearch\obj\Debug\netstandard2.0\QuickRe.AzureSearch.AssemblyInfo.cs
+C:\Work\Projects\QuickReBot\QuickRe.AzureSearch\obj\Debug\netstandard2.0\QuickRe.AzureSearch.dll
+C:\Work\Projects\QuickReBot\QuickRe.AzureSearch\obj\Debug\netstandard2.0\QuickRe.AzureSearch.pdb

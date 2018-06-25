@@ -1,0 +1,334 @@
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Bot Application.dll.config
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Bot Application.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Bot Application.pdb
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Autofac.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Chronic.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Builder.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Connector.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Newtonsoft.Json.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.Http.Formatting.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Web.Http.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Web.Http.WebHost.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Autofac.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Builder.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Connector.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Newtonsoft.Json.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.Http.Formatting.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Web.Http.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Web.Http.WebHost.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\obj\Debug\QuickReBot.csprojAssemblyReference.cache
+C:\Work\Projects\QuickReBot\QuickReBot\obj\Debug\QuickReBot.csproj.CoreCompileInputs.cache
+C:\Work\Projects\QuickReBot\QuickReBot\obj\Debug\QuickReBot.csproj.CopyComplete
+C:\Work\Projects\QuickReBot\QuickReBot\obj\Debug\Bot Application.dll
+C:\Work\Projects\QuickReBot\QuickReBot\obj\Debug\Bot Application.pdb
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.ConfigurationManager.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Common.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Data.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Service.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Spatial.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.ConfigurationManager.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Common.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Data.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Service.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Spatial.xml
+C:\Work\Projects\QuickReBot\QuickReBot\bin\de\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\es\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\fr\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\it\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\ja\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\ko\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\ru\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Bot Application.dll.config
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Bot Application.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Bot Application.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Win32.Primitives.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\netstandard.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.AppContext.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Collections.Concurrent.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Collections.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Collections.NonGeneric.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Collections.Specialized.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.ComponentModel.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.ComponentModel.Primitives.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Console.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Data.Common.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.Contracts.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.Debug.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.Process.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.StackTrace.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.Tools.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.TraceSource.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.Tracing.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Drawing.Primitives.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Dynamic.Runtime.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Globalization.Calendars.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Globalization.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Globalization.Extensions.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.Compression.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.Compression.ZipFile.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.FileSystem.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.IsolatedStorage.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.Pipes.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Linq.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Linq.Expressions.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Linq.Parallel.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Linq.Queryable.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.Http.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.NameResolution.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.NetworkInformation.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.Ping.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.Primitives.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.Requests.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.Security.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.Sockets.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.WebHeaderCollection.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.WebSockets.Client.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.WebSockets.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.ObjectModel.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Reflection.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Reflection.Extensions.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Reflection.Primitives.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Resources.Reader.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Resources.ResourceManager.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Resources.Writer.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Extensions.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Handles.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.InteropServices.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Numerics.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Serialization.Json.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Security.Claims.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Security.Cryptography.Csp.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Security.Principal.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Security.SecureString.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Text.Encoding.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Text.Encoding.Extensions.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Text.RegularExpressions.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Threading.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Threading.Overlapped.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Threading.Tasks.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Threading.Thread.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Threading.ThreadPool.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Threading.Timer.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.ValueTuple.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Xml.ReaderWriter.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Xml.XDocument.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Xml.XmlDocument.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Xml.XmlSerializer.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Xml.XPath.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Xml.XPath.XDocument.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Autofac.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Chronic.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.ConfigurationManager.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Common.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Data.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Service.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Spatial.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Newtonsoft.Json.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\QuickRe.DataClients.NetFramework.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\QuickRe.Models.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.Http.Formatting.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Web.Http.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Web.Http.WebHost.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\QuickRe.DataClients.NetFramework.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\QuickRe.Models.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Autofac.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.ConfigurationManager.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Common.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Data.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Azure.Search.Service.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.Spatial.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\Newtonsoft.Json.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Net.Http.Formatting.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Web.Http.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\System.Web.Http.WebHost.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\obj\Debug\QuickReBot.csprojAssemblyReference.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\obj\Debug\QuickReBot.csproj.CoreCompileInputs.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\obj\Debug\QuickReBot.csproj.CopyComplete
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\obj\Debug\Bot Application.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickReBot\obj\Debug\Bot Application.pdb
+C:\Work\Projects\QuickReBot\QuickReBot\bin\Microsoft.Win32.Primitives.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\netstandard.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.AppContext.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Collections.Concurrent.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Collections.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Collections.NonGeneric.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Collections.Specialized.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.ComponentModel.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.ComponentModel.Primitives.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.ComponentModel.TypeConverter.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Console.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Data.Common.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.Contracts.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.Debug.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.Process.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.StackTrace.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.Tools.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.TraceSource.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Diagnostics.Tracing.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Drawing.Primitives.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Dynamic.Runtime.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Globalization.Calendars.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Globalization.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Globalization.Extensions.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.Compression.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.Compression.ZipFile.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.FileSystem.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.FileSystem.Primitives.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.FileSystem.Watcher.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.IsolatedStorage.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.MemoryMappedFiles.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.Pipes.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Linq.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Linq.Expressions.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Linq.Parallel.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Linq.Queryable.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.Http.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.NameResolution.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.NetworkInformation.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.Ping.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.Primitives.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.Requests.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.Security.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.Sockets.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.WebHeaderCollection.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.WebSockets.Client.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Net.WebSockets.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.ObjectModel.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Reflection.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Reflection.Extensions.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Reflection.Primitives.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Resources.Reader.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Resources.ResourceManager.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Resources.Writer.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Extensions.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Handles.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.InteropServices.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Numerics.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Serialization.Formatters.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Serialization.Json.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Serialization.Primitives.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Runtime.Serialization.Xml.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Security.Claims.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Security.Cryptography.Algorithms.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Security.Cryptography.Csp.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Security.Cryptography.Encoding.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Security.Cryptography.Primitives.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Security.Principal.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Security.SecureString.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Text.Encoding.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Text.Encoding.Extensions.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Text.RegularExpressions.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Threading.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Threading.Overlapped.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Threading.Tasks.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Threading.Tasks.Parallel.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Threading.Thread.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Threading.ThreadPool.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Threading.Timer.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.ValueTuple.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Xml.ReaderWriter.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Xml.XDocument.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Xml.XmlDocument.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Xml.XmlSerializer.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Xml.XPath.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\System.Xml.XPath.XDocument.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\QuickRe.DataClients.NetFramework.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\QuickRe.Models.dll
+C:\Work\Projects\QuickReBot\QuickReBot\bin\QuickRe.DataClients.NetFramework.pdb
+C:\Work\Projects\QuickReBot\QuickReBot\bin\QuickRe.Models.pdb

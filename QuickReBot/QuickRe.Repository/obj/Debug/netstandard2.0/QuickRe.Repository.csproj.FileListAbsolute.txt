@@ -1,0 +1,18 @@
+C:\Work\Projects\QuickReBot\QuickRe.Repository\bin\Debug\netstandard2.0\QuickRe.Repository.deps.json
+C:\Work\Projects\QuickReBot\QuickRe.Repository\bin\Debug\netstandard2.0\QuickRe.Repository.dll
+C:\Work\Projects\QuickReBot\QuickRe.Repository\bin\Debug\netstandard2.0\QuickRe.Repository.pdb
+C:\Work\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.csprojAssemblyReference.cache
+C:\Work\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.csproj.CoreCompileInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.AssemblyInfoInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.AssemblyInfo.cs
+C:\Work\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.dll
+C:\Work\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Repository\bin\Debug\netstandard2.0\QuickRe.Repository.deps.json
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Repository\bin\Debug\netstandard2.0\QuickRe.Repository.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Repository\bin\Debug\netstandard2.0\QuickRe.Repository.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.csprojAssemblyReference.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.csproj.CoreCompileInputs.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.AssemblyInfoInputs.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.AssemblyInfo.cs
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Repository\obj\Debug\netstandard2.0\QuickRe.Repository.pdb

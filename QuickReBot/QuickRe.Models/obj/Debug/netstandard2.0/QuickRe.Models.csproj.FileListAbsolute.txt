@@ -1,0 +1,17 @@
+C:\Work\Projects\QuickReBot\QuickRe.Models\bin\Debug\netstandard2.0\QuickRe.Models.deps.json
+C:\Work\Projects\QuickReBot\QuickRe.Models\bin\Debug\netstandard2.0\QuickRe.Models.dll
+C:\Work\Projects\QuickReBot\QuickRe.Models\bin\Debug\netstandard2.0\QuickRe.Models.pdb
+C:\Work\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.csprojAssemblyReference.cache
+C:\Work\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.csproj.CoreCompileInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.AssemblyInfoInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.AssemblyInfo.cs
+C:\Work\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.dll
+C:\Work\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Models\bin\Debug\netstandard2.0\QuickRe.Models.deps.json
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Models\bin\Debug\netstandard2.0\QuickRe.Models.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Models\bin\Debug\netstandard2.0\QuickRe.Models.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.csproj.CoreCompileInputs.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.AssemblyInfoInputs.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.AssemblyInfo.cs
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.Models\obj\Debug\netstandard2.0\QuickRe.Models.pdb

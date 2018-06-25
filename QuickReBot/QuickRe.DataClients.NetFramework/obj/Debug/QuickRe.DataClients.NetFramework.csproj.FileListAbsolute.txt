@@ -1,0 +1,63 @@
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\QuickRe.DataClients.NetFramework.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\QuickRe.DataClients.NetFramework.pdb
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Common.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Data.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Service.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Spatial.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.xml
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Common.xml
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Data.xml
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Service.xml
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Spatial.xml
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\de\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\es\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\fr\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\it\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\ja\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\ko\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\ru\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\obj\Debug\QuickRe.DataClients.NetFramework.csprojAssemblyReference.cache
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\obj\Debug\QuickRe.DataClients.NetFramework.csproj.CoreCompileInputs.cache
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\obj\Debug\QuickRe.DataClients.NetFramework.csproj.CopyComplete
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\obj\Debug\QuickRe.DataClients.NetFramework.dll
+C:\Work\Projects\QuickReBot\QuickRe.DataClients.NetFramework\obj\Debug\QuickRe.DataClients.NetFramework.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\QuickRe.DataClients.NetFramework.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\QuickRe.DataClients.NetFramework.pdb
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Common.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Data.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Service.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Spatial.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Common.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Data.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Azure.Search.Service.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Microsoft.Spatial.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\de\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\es\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\fr\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\it\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\ja\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\ko\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\ru\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\obj\Debug\QuickRe.DataClients.NetFramework.csproj.CoreCompileInputs.cache
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\obj\Debug\QuickRe.DataClients.NetFramework.csproj.CopyComplete
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\obj\Debug\QuickRe.DataClients.NetFramework.dll
+C:\Users\t-thnamb\Desktop\Projects Backup\Projects\QuickReBot\QuickRe.DataClients.NetFramework\obj\Debug\QuickRe.DataClients.NetFramework.pdb
